@@ -11,7 +11,7 @@ console.log(myString2.length)
 // 3. Muestra el primer y último carácter de un string.
 
 console.log(myString2[0])
-console.log(myString2[10    ])
+console.log(myString2[10])
 
 // 4. Convierte a mayúsculas y minúsculas un string.
 
