@@ -51,7 +51,7 @@ console.log(typeof myBigInt2)
 
 // 6. A continuación, modifica los valores de las variables por otros del mismo tipo.
 
-name = "Gadiel Garcia"
+name = "Juan Perez"
 age = 23
 height = 1.77
 isStudent = false
@@ -82,7 +82,7 @@ const myAge = 22
 const myHeight = 1.84
 const myIsStudent = true
 const myIsTeacher = false
-// const myUndefinedValue = undefined
+const myUndefinedValue = undefined
 const myNullValue = null 
 const mySymbolConst = Symbol("mySymbol")
 const myBigIntConst = BigInt(127894383239048948918934891282389189328912839189328918932189389128939818495727692623)
@@ -104,4 +104,3 @@ myBigInt2Const = 127894383239048948918934891282389189328912839189328918932189389
 */
 
 // 10. Comenta las líneas que produzcan algún tipo de error al ejecutarse.
-
